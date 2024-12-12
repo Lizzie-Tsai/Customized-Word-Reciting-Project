@@ -1,3 +1,3 @@
-Customized-Word-Reciting-Project
+Customized Word Reciting Project
 
-See 
+See Database_Final_PPT.pdf and Database_Final_Report.pdf for detail.
